@@ -1,0 +1,16 @@
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\bin\Debug\net8.0-windows\09_10 - Projeto Agenda WFA.exe
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\bin\Debug\net8.0-windows\09_10 - Projeto Agenda WFA.deps.json
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\bin\Debug\net8.0-windows\09_10 - Projeto Agenda WFA.runtimeconfig.json
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\bin\Debug\net8.0-windows\09_10 - Projeto Agenda WFA.dll
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\bin\Debug\net8.0-windows\09_10 - Projeto Agenda WFA.pdb
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\obj\Debug\net8.0-windows\_09_10___Projeto_Agenda_WFA.Form1.resources
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\obj\Debug\net8.0-windows\09_10 - Projeto Agenda WFA.csproj.GenerateResource.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\obj\Debug\net8.0-windows\09_10 - Projeto Agenda WFA.GeneratedMSBuildEditorConfig.editorconfig
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\obj\Debug\net8.0-windows\09_10 - Projeto Agenda WFA.AssemblyInfoInputs.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\obj\Debug\net8.0-windows\09_10 - Projeto Agenda WFA.AssemblyInfo.cs
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\obj\Debug\net8.0-windows\09_10 - Projeto Agenda WFA.csproj.CoreCompileInputs.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\obj\Debug\net8.0-windows\09_10 - Projeto Agenda WFA.dll
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\obj\Debug\net8.0-windows\refint\09_10 - Projeto Agenda WFA.dll
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\obj\Debug\net8.0-windows\09_10 - Projeto Agenda WFA.pdb
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\obj\Debug\net8.0-windows\09_10 - Projeto Agenda WFA.genruntimeconfig.cache
+D:\FACULDADE\2º PERIODO\2º SEMESTRE\09_10 - Projeto Agenda WFA\obj\Debug\net8.0-windows\ref\09_10 - Projeto Agenda WFA.dll
